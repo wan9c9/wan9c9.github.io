@@ -18,3 +18,5 @@ Space Shuttle is not included in X-Plane 12 but is in X-Plane 11. To fly Space S
 
 
 # Create a situation file for Space Shuttle 
+
+Create a situation file.
